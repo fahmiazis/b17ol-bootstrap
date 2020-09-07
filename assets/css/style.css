@@ -1,0 +1,40 @@
+a{
+    color: #DB3022;
+}
+a:hover{
+    color: #af2418;
+}
+.btn-primary{
+    background-color: #DB3022;
+    color: #ffffff;
+    border-color: #DB3022;
+}
+.btn-secondary{
+    background-color: #ffffff;
+    color: #9b9b9b;
+    border-color: #9b9b9b;
+}
+.auth .btn-primary{
+    border-radius: 25px;
+    height: 48px;
+}
+.switch .btn{
+    width: 123px;
+    height: 48px;
+}
+.btn-primary:hover, .btn-secondary:hover{
+    background-color: #af2418;
+    border-color: #af2418;
+}
+.header .logo{
+    margin-bottom: 40px;
+}
+.header .message{
+    margin-bottom: 50px;
+}
+.switch{
+    margin-bottom: 40px;
+}
+.auth-input{
+    width: 400px;
+}
